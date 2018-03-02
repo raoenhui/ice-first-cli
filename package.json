@@ -1,0 +1,20 @@
+{
+  "name": "ice-first-cli",
+  "version": "1.0.8",
+  "scripts": {
+    "test": "npm -v"
+  },
+  "bin": {
+    "ice-first-cli": "./bin/commit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raoenhui/ice-first-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "devDependencies": {
+    "shelljs": "^0.8.1"
+  }
+}
